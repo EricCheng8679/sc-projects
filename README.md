@@ -17,4 +17,4 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 * Name Popularity Searching System
   * data structure
 * Boggle Game Solver
-  recursive functions
+  * recursive functions
