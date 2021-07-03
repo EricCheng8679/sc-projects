@@ -1,5 +1,5 @@
 # stanCode Projects
-##Hello there!
-##This repository holds my programming projects done during the period of stanCode SC101 course.
+## Hello there!
+## This repository holds my programming projects done during the period of stanCode SC101 course.
 
-##Watch my DEMO VIDEOS!
+## Watch my DEMO VIDEOS!
