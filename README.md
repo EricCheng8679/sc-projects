@@ -6,15 +6,15 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 ## Project Source Codes:
 * Hangman Game
   * python semantics & syntax
-Weather Master
-  python semantics & syntax
-MyPhotoshop
-  image processing
-Pedestrian Removing Application
-  image processing
-Breakout Game
-  animation & game designing
-Name Popularity Searching System
-  data structure
-Boggle Game Solver
+* Weather Master
+  * python semantics & syntax
+* MyPhotoshop
+  * image processing
+* Pedestrian Removing Application
+  * image processing
+* Breakout Game
+  * animation & game designing
+* Name Popularity Searching System
+  * data structure
+* Boggle Game Solver
   recursive functions
