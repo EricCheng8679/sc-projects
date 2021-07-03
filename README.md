@@ -8,7 +8,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * python semantics & syntax
 * [Weather Master](https://github.com/EricCheng8679/sc-projects/tree/main/stanCode_Projects/weather_master)
   * python semantics & syntax
-* [MyPhotoshop](https://github.com/EricCheng8679/sc-projects/tree/main/stanCode_Projects/my_photoshop)
+* [My Photoshop](https://github.com/EricCheng8679/sc-projects/tree/main/stanCode_Projects/my_photoshop)
   * image processing
 * [Pedestrian Removing Application](https://github.com/EricCheng8679/sc-projects/tree/main/stanCode_Projects/pedestrian_removing_application)
   * image processing
@@ -18,5 +18,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * data structure
 * [Boggle Game Solver](https://github.com/EricCheng8679/sc-projects/tree/main/stanCode_Projects/boggle_game_solver)
   * recursive functions
-* [My_drawing](https://github.com/EricCheng8679/sc-projects/tree/main/stanCode_Projects/my_drawing)
+* [My Drawing](https://github.com/EricCheng8679/sc-projects/tree/main/stanCode_Projects/my_drawing)
   * campy & mousecliked  
